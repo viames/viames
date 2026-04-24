@@ -1,16 +1,31 @@
-## Hi there 👋
+# Viames Marino
 
-<!--
-**viames/viames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronic Engineer · Software Architecture · Technical Direction · Creator of Pair
 
-Here are some ideas to get you started:
+I help companies design, review and evolve custom software, production environments and mixed software/electronics systems, with a focus on maintainability, security, continuity and controlled AI-assisted development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- Technical direction for custom software projects
+- Architecture review and modernization of existing systems
+- PHP/MySQL applications, server-rendered web platforms and backend tooling
+- Linux production environments, hardening, performance and operational continuity
+- Controlled integration of AI tools in software products and internal workflows
+- Mixed software/electronics systems when field devices, control logic or hardware integration are involved
+
+## Open source
+
+### Pair — Lightweight PHP framework
+
+Pair is a lightweight PHP framework for fast server-rendered web applications, with MVC routing, ActiveRecord-style ORM, API tooling, PairUI helpers and optional integrations without heavy tooling.
+
+- Framework: viames/pair
+- Starter project: viames/pair_boilerplate
+- Docs: Pair Wiki
+- Package: viames/pair on Packagist
+
+## Professional profile
+
+Full professional profile, services and contact form: https://viames.it
+
+Based in Crotone, Italy · VM Ingegneria
