@@ -1,31 +1,37 @@
 # Viames Marino
 
-Electronic Engineer · Software Architecture · Technical Direction · Creator of Pair
+**External Technical Director · Software & AI Systems Architect · Electronic Engineer**
 
-I help companies design, review and evolve custom software, production environments and mixed software/electronics systems, with a focus on maintainability, security, continuity and controlled AI-assisted development.
+I help organizations modernize existing systems and introduce AI-assisted workflows and agents without losing control of architecture, data, security, production or accountability.
 
-## What I work on
+## What I help organizations do
 
-- Technical direction for custom software projects
-- Architecture review and modernization of existing systems
-- PHP/MySQL applications, server-rendered web platforms and backend tooling
-- Linux production environments, hardening, performance and operational continuity
-- Controlled integration of AI tools in software products and internal workflows
-- Mixed software/electronics systems when field devices, control logic or hardware integration are involved
+- Set technical direction, architecture, constraints and priorities for custom software projects
+- Assess, integrate and govern AI-assisted workflows, knowledge bases, RAG systems and agents
+- Modernize existing software while protecting security and operational continuity
+- Coordinate internal teams and suppliers around clear technical decisions and responsibilities
 
-## Open source
+## Technical foundations
 
-### Pair — Lightweight PHP framework
+My hands-on background includes PHP/MySQL applications, server-rendered platforms, backend tooling, Linux production environments, hardening and performance, and mixed software/electronics systems.
 
-Pair is a lightweight PHP framework for fast server-rendered web applications, with MVC routing, ActiveRecord-style ORM, API tooling, PairUI helpers and optional integrations without heavy tooling.
+## Open source and engineering stewardship
 
-- Framework: viames/pair
-- Starter project: viames/pair_boilerplate
-- Docs: Pair Wiki
-- Package: viames/pair on Packagist
+### [Pair — Lightweight PHP framework](https://github.com/viames/pair)
+
+Pair demonstrates my approach to maintainable software: explicit architecture, predictable component boundaries, progressive enhancement, conservative migrations and changes that remain reviewable by people and AI-assisted workflows.
+
+- [Framework](https://github.com/viames/pair)
+- [Documentation](https://github.com/viames/pair/wiki)
+- [Starter project](https://github.com/viames/pair_boilerplate)
+- [Package](https://packagist.org/packages/viames/pair)
+
+### [ComposerGlass Engine](https://github.com/viames/ComposerGlassEngine)
+
+ComposerGlass Engine is an independent Composer-compatible dependency engine written in Swift for native developer tools, designed around deterministic behavior, security boundaries, transactional operations and rollback.
 
 ## Professional profile
 
-Full professional profile, services and contact form: https://vmingegneria.it
+Full professional profile, services and contact form: [vmingegneria.it](https://vmingegneria.it)
 
 Based in Crotone, Italy · VM Ingegneria
