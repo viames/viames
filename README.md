@@ -39,7 +39,7 @@ ComposerGlass Engine is an independent Composer-compatible dependency engine wri
 
 ### [Governed AI Agent Blueprint](https://github.com/viames/governed-ai-agent-blueprint)
 
-A compact reference architecture for grounded AI agents with policy gates, explicit tool approval, audit events and deterministic evaluations. It demonstrates the controls I expect around an AI workflow before it reaches production.
+An AI-assisted public reference implementation for grounded agents with record authorization, policy gates, persistent approval, audit events and measurable evaluations. It is an inspectable blueprint, not a deployed client system.
 
 ## Public engineering evidence
 
