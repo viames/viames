@@ -2,6 +2,8 @@
 
 **External Technical Director · Software & AI Systems Architect · Electronic Engineer**
 
+[VM Ingegneria — professional services](https://vmingegneria.it/#interventi) · [Discuss a project](https://vmingegneria.it/#contatti)
+
 I help organizations modernize production software and introduce governed AI workflows without losing control of architecture, data, security or accountability.
 
 ## What I help organizations do
@@ -50,6 +52,10 @@ An AI-assisted public reference implementation for grounded agents with record a
 
 ## Professional profile
 
-Full professional profile, services and contact form: [vmingegneria.it](https://vmingegneria.it)
+Professional practice: [VM Ingegneria](https://vmingegneria.it/).
+
+- [External technical direction](https://vmingegneria.it/#direzione-tecnica)
+- [Software modernization](https://vmingegneria.it/#modernizzazione-software)
+- [AI assessment and governance](https://vmingegneria.it/#governo-ai)
 
 Based in Crotone, Italy · VM Ingegneria
