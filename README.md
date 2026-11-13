@@ -23,6 +23,24 @@ Affianco chi guida l’azienda nelle scelte tecniche e nella loro realizzazione.
 **[LG ThinQ](https://github.com/viames/homebridge-lg-thinq-system-boiler) · [PRANA](https://github.com/viames/homebridge-prana-local)** — integrazioni tra software e dispositivi attraverso Homebridge.
 
 <details>
+<summary><strong>Dove installare i progetti · npm, MCP e altri cataloghi</strong></summary>
+
+| Progetto | Pacchetto o catalogo pubblico |
+| --- | --- |
+| Pair e Starter | [Pair su Packagist](https://packagist.org/packages/viames/pair) · [Starter su Packagist](https://packagist.org/packages/viames/pair_boilerplate) |
+| Skill Pair per Codex | [skills.sh](https://skills.sh/viames/pair-plugin/pair) · [Plugin completo](https://github.com/viames/pair-plugin#install) |
+| Aruba Cloud | [skills.sh](https://skills.sh/viames/aruba-cloud-skill/aruba-cloud) |
+| Pages Native | [Registro MCP](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.viames%2Fpages-native/versions/0.5.0) · [Glama](https://glama.ai/mcp/servers/viames/pages-native) · [MCP Servers](https://mcpservers.org/servers/viames/pages-native) |
+| Numbers Native | [Registro MCP](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.viames%2Fnumbers-native/versions/0.5.0) · [Glama](https://glama.ai/mcp/servers/viames/numbers-native) · [MCP Servers](https://mcpservers.org/servers/viames/numbers-native) |
+| Homebridge LG ThinQ | [npm](https://www.npmjs.com/package/homebridge-lg-thinq-system-boiler) |
+| Homebridge PRANA | [npm](https://www.npmjs.com/package/homebridge-prana-local) |
+| Governed AI Agent Blueprint | [PyPI](https://pypi.org/project/governed-ai-agent-blueprint/) |
+
+Le pagine dei progetti spiegano installazione e requisiti. I bundle MCP di Pages Native e Numbers Native richiedono un Mac; per includere anche le skill Codex usa il relativo plugin.
+
+</details>
+
+<details>
 <summary><strong>Come lavoro e altri progetti</strong></summary>
 
 Sono ingegnere e titolare di **VM Ingegneria**. Unisco esperienza pluridecennale su software e sistemi in produzione al coordinamento tecnico di gruppi e fornitori.
