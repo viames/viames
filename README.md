@@ -2,7 +2,7 @@
 
 **External Technical Director · Software & AI Systems Architect · Electronic Engineer**
 
-[VM Ingegneria — professional services](https://vmingegneria.it/#interventi) · [Discuss a project](https://vmingegneria.it/#contatti)
+[VM Ingegneria — professional services](https://vmingegneria.it/#interventi) · [Discuss a project](https://vmingegneria.it/#contatti) · [Cloud & connected systems](#cloud-and-connected-systems)
 
 I help organizations modernize production software and introduce governed AI workflows without losing control of architecture, data, security or accountability.
 
@@ -42,6 +42,22 @@ ComposerGlass Engine is an independent Composer-compatible dependency engine wri
 ### [Governed AI Agent Blueprint](https://github.com/viames/governed-ai-agent-blueprint)
 
 An AI-assisted public reference implementation for grounded agents with record authorization, policy gates, persistent approval, audit events and measurable evaluations. It is an inspectable blueprint, not a deployed client system.
+
+## Cloud and connected systems
+
+### [Aruba Cloud — Codex skill](https://github.com/viames/aruba-cloud-skill)
+
+Inventories Aruba Cloud CMP resources through the official Aruba CLI, generates Markdown reports and compares scans offline. Scope-aware comparisons distinguish unreadable resources from confirmed changes. Includes runnable examples and CI against local fixtures.
+
+### [LG ThinQ heat pumps — Homebridge plugin](https://github.com/viames/homebridge-lg-thinq-system-boiler)
+
+Connects compatible LG air-to-water heat pumps to Apple Home through Homebridge and the official ThinQ Connect API. Covers space heating and cooling, domestic hot water and temperatures, with documented hardware validation on an LG THERMA V `HU091.U43`.
+
+### [PRANA ventilation — Homebridge plugin](https://github.com/viames/homebridge-prana-local)
+
+Controls PRANA ventilation and heat-recovery units from Apple Home and Siri over local Wi-Fi, without a cloud account. Automated tests cover HomeKit controls, sensor mapping and recovery from connectivity failures. Requires a compatible local API and firmware 49 or later.
+
+These are independent community projects. Each repository documents its compatibility and validation scope.
 
 ## Public engineering evidence
 
