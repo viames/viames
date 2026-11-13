@@ -34,6 +34,9 @@ Pair demonstrates my approach to maintainable software: explicit architecture, p
 - [Documentation](https://github.com/viames/pair/wiki)
 - [Starter project](https://github.com/viames/pair_boilerplate)
 - [Package](https://packagist.org/packages/viames/pair)
+- [Codex plugin](https://github.com/viames/pair-plugin)
+
+The Pair plugin adds six version-aware Codex skills for modules, APIs, forms, migrations and CRUD reviews. It works from the installed framework source and preserves the application's existing architecture.
 
 ### [ComposerGlass Engine](https://github.com/viames/ComposerGlassEngine)
 
