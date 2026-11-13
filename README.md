@@ -2,7 +2,7 @@
 
 **External Technical Director · Software & AI Systems Architect · Electronic Engineer**
 
-[VM Ingegneria — professional services](https://vmingegneria.it/#interventi) · [Discuss a project](https://vmingegneria.it/#contatti) · [Cloud & connected systems](#cloud-and-connected-systems)
+[VM Ingegneria — professional services](https://vmingegneria.it/#interventi) · [Discuss a project](https://vmingegneria.it/#contatti) · [Open-source utilities](#developer-tools-and-connected-systems)
 
 I help organizations modernize production software and introduce governed AI workflows without losing control of architecture, data, security or accountability.
 
@@ -43,11 +43,21 @@ ComposerGlass Engine is an independent Composer-compatible dependency engine wri
 
 An AI-assisted public reference implementation for grounded agents with record authorization, policy gates, persistent approval, audit events and measurable evaluations. It is an inspectable blueprint, not a deployed client system.
 
-## Cloud and connected systems
+## Developer tools and connected systems
 
 ### [Aruba Cloud — Codex skill](https://github.com/viames/aruba-cloud-skill)
 
 Inventories Aruba Cloud CMP resources through the official Aruba CLI, generates Markdown reports and compares scans offline. Scope-aware comparisons distinguish unreadable resources from confirmed changes. Includes runnable examples and CI against local fixtures.
+
+### [Pages Native — Codex and MCP plugin](https://github.com/viames/pages-native)
+
+Creates and edits native Apple Pages documents through Apple's scripting API. Supports reusable templates, revision-guarded edits, previews and recipe history while preserving the `.pages` format.
+
+### [Numbers Native — Codex and MCP plugin](https://github.com/viames/numbers-native)
+
+Creates, inspects and edits native Apple Numbers documents, with formulas calculated by Numbers itself. Supports guarded table edits, typed CSV/TSV imports and charts from verified templates. Version 0.5.0 is a preview.
+
+Both integrations run locally on macOS. Native acceptance is documented separately from portable CI, with explicit application-version limits.
 
 ### [LG ThinQ heat pumps — Homebridge plugin](https://github.com/viames/homebridge-lg-thinq-system-boiler)
 
